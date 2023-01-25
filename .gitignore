@@ -1,0 +1,9 @@
+# postgres volume
+ny_taxi_postgres_data/
+# document
+data_dictionary_trip_records_yellow.pdf
+VigilaDE_TR.pdf
+# data
+yellow_head.csv
+yellow_tripdata_2021-01.csv.gz
+yellow_tripdata_2021-01.parquet
