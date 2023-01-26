@@ -7,3 +7,5 @@ VigilaDE_TR.pdf
 yellow_head.csv
 yellow_tripdata_2021-01.csv.gz
 yellow_tripdata_2021-01.parquet
+*.gz
+*.csv
